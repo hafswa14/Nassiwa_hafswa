@@ -3,7 +3,7 @@ import schedule
 import time
 
 
-token = "7841992725:AAFqYrw2V1YTJvzYLcZMiPa2c_TTdq24oGk"
+token = ""
 chat_id = -1002000945804
 
 url = f"https://api.telegram.org/bot{token}/getUpdates"
